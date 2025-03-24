@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base{ 
+    body{
+        @apply
+        bg-white;
+        font-family:'Atma', 'sans-serif', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}
